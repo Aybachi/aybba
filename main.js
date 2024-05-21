@@ -1,1 +1,1 @@
-alert("hello I'm ayoub")
+console.log("hello this is New day");
